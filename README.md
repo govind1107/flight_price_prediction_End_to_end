@@ -10,4 +10,5 @@
 
 #### app.py contains all flask related code
 #### template contains all HTML and CSS codes
+#### requirement.txt contains all the required packages to be installed in your local system
 
